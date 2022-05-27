@@ -1,11 +1,7 @@
-Licenses of this project can be found in:
-              
-              LICENSES/
-
 This project is mostly licensed under GPL-2.0, which can be found here:
 
-              LICENSES/LICENSE-GPL-2.0.txt
+              LICENSE.core
 
-Some files are licensed under the MIT license, which can be found here:
+The documentation and the code for the marketplace are licensed under the MIT license, which can be found here:
 
-              LICENSES/LICENSE-MIT.txt
+              LICENSE.docs and LICENSE.marketplace
