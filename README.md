@@ -69,4 +69,4 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for info.
 The documentation can be found [here](https://flytta.readthedocs.io/en/latest/).    
 
 ## License
-This project is licensed under the [GPL-2.0](LICENSES/LICENSE-GPL-2.0.txt) license. Some code is licensed under the [MIT](LICENSES/LICENSE-MIT.txt) license.
+This project is licensed under the [GPL-2.0](LICENSE.core) license. Both the documentation and the code for the marketplace are licensed under the [MIT](LICENSE.docs) license.
